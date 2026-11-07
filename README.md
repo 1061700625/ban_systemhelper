@@ -1,0 +1,2 @@
+# ban_systemhelper
+禁止恶心的间谍软件systemhelper
